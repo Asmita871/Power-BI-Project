@@ -81,8 +81,8 @@ Main colors used:
 ## 📷 Dashboard Preview
 
 
-![Coffee Dashboard](<img width="1170" height="656" alt="image" src="https://github.com/user-attachments/assets/8de89558-1f12-4636-abe4-729f7676596f" />
-)
+<img width="1170" height="656" alt="image" src="https://github.com/user-attachments/assets/8de89558-1f12-4636-abe4-729f7676596f" />
+
 
 ---
 
